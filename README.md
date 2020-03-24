@@ -1,6 +1,7 @@
 Tendo o React instalado
 Apenas faça:
-npm -i
-npm start
+
+<br/>npm -i
+<br/>npm start
 
 ![](ResultadoFinal.jpg)
